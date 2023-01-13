@@ -32,7 +32,7 @@ E-mail:  yutao_liu2022@163.com
 
 If you show related results in a paper or presentation using ACOUSTIC2DPML, please give a reference to the following papers:
 
-Wen Lei, Yutao Liu, Gang Li*, Shuang Zhu and Guoxin Chen. 2D frequency-domain finite-difference acoustic wave modeling using optimized perfectly matched layers. Geophysics, 2023. DOI: 10.1190/geo2022-0145.1
+Wen Lei, Yutao Liu, Gang Li*, Shuang Zhu, Guoxin Chen and Chun-Feng Li. 2D frequency-domain finite-difference acoustic wave modeling using optimized perfectly matched layers. Geophysics, 2023. DOI: 10.1190/geo2022-0145.1
 
 If you have any questions, please contact the developers:
 Wen LEI and Dr. Gang LI*
