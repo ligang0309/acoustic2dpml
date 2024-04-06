@@ -20,7 +20,7 @@ This folder includes all the source codes written in MATLAB.
 This folder includes the homogeneous, Overthrust and Marmousi2 model tests and related figures for this study.
 
 3. USAGE DECLARATION
-ACOUSTIC2DPML is distributed for ONLY academic use but WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. You should have a GNU license or the SEG disclaimer.txt file within this package.  See the GNU license and https://software.seg.org/disclaimer.txt for more details.
+ACOUSTIC2DPML is distributed for ONLY academic use but WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. You should have a GNU license or the SEG disclaimer.txt file within this package. See the GNU license and https://software.seg.org/disclaimer.txt for more details.
 
 External package(s) used:
 The plotting file wigb.m is distributed freely for academic use and it can be found at: https://github.com/nicklinyi/seismic_utils/blob/master/wigb.m
