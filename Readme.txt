@@ -26,7 +26,7 @@ External package(s) used:
 The plotting file wigb.m is distributed freely for academic use and it can be found at: https://github.com/nicklinyi/seismic_utils/blob/master/wigb.m
 
 The balance_trace.m file in the subfolder /Examples/Marmousi2/Seismograms for balancing traces is written by Yutao Liu:
-Yutao LIU
+Yutao Liu
 Science & Technology on Integrated Information System Laboratory, Institute of Software, Chinese Academy of Sciences, Beijing, China
 E-mail:  yutao_liu2022@163.com
 
