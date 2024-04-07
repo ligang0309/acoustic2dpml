@@ -13,7 +13,7 @@ The file acoustic2dpml.m in the subfolder /SourceCode is for the main program fo
 See the file 'Readme.txt' in the subfolder /Examples for details.
 
 2. SUBFOLDERS DESCRIPTION:
-2.1 /SourceCode
+2.1 /Source codes
 This folder includes all the source codes written in MATLAB.
 
 2.2 /Examples
