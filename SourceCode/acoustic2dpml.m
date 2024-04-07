@@ -26,7 +26,7 @@
 %     |
 %     |
 %     |
-%     v 
+%     z 
 %
 %%  Parameter description
 % ischeme----type of the finite difference schemes used, 
